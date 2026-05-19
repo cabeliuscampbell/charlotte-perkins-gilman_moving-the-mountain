@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+    <file path="chapter-9.xhtml">
+        <ignore code="t-057">
+            <reason>The character's dialogue is designed to be presented as a list, and the lowercase letters are the points of the list. Dialogue is not one clause or a blockquote so br/ is inappropriate.
+            </reason>
+        </ignore>
+        <ignore code="y-009">
+            <reason>The character's dialogue is designed to be presented as a list, and the lowercase letters are the points of the list.
+            </reason>
+        </ignore>
+    </file>
+</se-lint-ignore>
